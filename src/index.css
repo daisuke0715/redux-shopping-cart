@@ -187,7 +187,7 @@ Cart
   margin-top: 4rem;
   text-align: center;
 }
-.cart-total h4 {
+.cart-total-price h4 {
   text-transform: capitalize;
   display: flex;
   justify-content: space-between;
